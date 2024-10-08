@@ -47,3 +47,5 @@ print("Final Bias after training OR:", bias_or)
 
 predictions_or = predict(X_or, weights_or, bias_or)
 print("Predictions for OR:", predictions_or)
+
+# Bothe AND and OR Gate
